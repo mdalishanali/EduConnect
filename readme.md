@@ -1,0 +1,1 @@
+This repository aims to provide an open-source solution for accessing PDFs of books and study materials. It focuses on non-profit initiatives, offering free educational resources for students and aspirants worldwide.
